@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cataleg>
+    <pelicula id="1">
+        <titol>El laberint del faune</titol>
+        <any>2006</any>
+        <genere>Fantasia</genere>
+        <durada unitat="min">118</durada>
+        <actors>
+            <actor>Ivana Baquery</actor>
+            <actor>Sergi López</actor>
+        </actors>
+    </pelicula>
+    <pelicula id="2">
+        <titol>Societat Morta </titol>
+        <any>1989</any>
+        <genere>Drama</genere>
+        <durada unitat="min">118</durada>
+        <actors>
+            <actor>Robin Williams</actor>
+            <actor>Ethan Hawke</actor>
+            <actor>Robert Sean Leonard</actor>
+        </actors>
+    </pelicula>
+    <pelicula id="3">
+        <titol>El laberint del faune</titol>
+        <any>2014</any>
+        <genere>Ciència-ficc
+            ió</genere>
+        <durada unitat="min">169</durada>
+        <actors>
+            <actor>Matthew McConaughey</actor>
+            <actor>Anne Hathaway</actor>
+        </actors>
+    </pelicula>
+</cataleg>

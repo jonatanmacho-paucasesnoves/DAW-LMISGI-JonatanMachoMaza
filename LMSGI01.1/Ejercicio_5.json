@@ -1,0 +1,48 @@
+{
+    "enquestes": [
+        {
+            "ordre": 1,
+            "titol": "Enquesta futbol",
+            "activa": true,
+            "preguntes": [
+                {
+                    "id": 1,
+                    "text": "T'agrada el futbol?",
+                    "tipus": "text_lliure"
+                },
+                {
+                    "id": 2,
+                    "text": "Tria el equpis que t'agradan",
+                    "tipus": "opcio_multiple",
+                    "opcions": [
+                        "Real Madrid",
+                        "Barcelona FC",
+                        "Sevila FC (El millor equip del món)"
+                    ]
+                }
+            ]
+        },
+        {
+            "ordre": 2,
+            "titol": "Enquesta basquet",
+            "activa": false,
+            "preguntes": [
+                {
+                    "id": 1,
+                    "text": "T'agrada el basquet?",
+                    "tipus": "opcio_multiple"
+                },
+                {
+                    "id": 2,
+                    "text": "Tria el equpis que t'agradan",
+                    "tipus": "opcio_multiple",
+                    "opcions": [
+                        "Chicago Bulls",
+                        "Los Angeles Lakers",
+                        "Golden State Warriors"
+                    ]
+                }
+            ]
+        }
+    ]
+}
