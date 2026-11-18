@@ -1,17 +1,17 @@
 {
     "enquestes": [
         {
-            "ordre": 1,
+            "id": 1,
             "titol": "Enquesta futbol",
             "activa": true,
             "preguntes": [
                 {
-                    "id": 1,
+                    "ordre": 1,
                     "text": "T'agrada el futbol?",
                     "tipus": "text_lliure"
                 },
                 {
-                    "id": 2,
+                    "ordre": 2,
                     "text": "Tria el equpis que t'agradan",
                     "tipus": "opcio_multiple",
                     "opcions": [
@@ -23,17 +23,17 @@
             ]
         },
         {
-            "ordre": 2,
+            "id": 2,
             "titol": "Enquesta basquet",
             "activa": false,
             "preguntes": [
                 {
-                    "id": 1,
+                    "ordre": 1,
                     "text": "T'agrada el basquet?",
-                    "tipus": "opcio_multiple"
+                    "tipus": "text_lliure"
                 },
                 {
-                    "id": 2,
+                    "ordre": 2,
                     "text": "Tria el equpis que t'agradan",
                     "tipus": "opcio_multiple",
                     "opcions": [
